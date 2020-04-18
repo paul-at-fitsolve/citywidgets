@@ -1,0 +1,13 @@
+{
+    "name": "citywidgets",
+    "type": "drupal-module",
+    "description": "Provides a set of city widgets",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/citywidgets",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/citywidgets",
+        "source": "http://cgit.drupalcode.org/citywidgets",
+    },
+}

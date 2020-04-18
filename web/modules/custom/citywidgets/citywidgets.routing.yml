@@ -1,0 +1,7 @@
+citywidgets.city_widgets_controller_description:
+  path: '/citywidgets/displaycitywidgets/{city}'
+  defaults:
+    _controller: '\Drupal\citywidgets\Controller\CityWidgetsController::displayWidgets'
+    _title: 'display widgets'
+  requirements:
+    _permission: 'access content'

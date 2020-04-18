@@ -1,0 +1,5 @@
+name: 'citywidgets'
+type: module
+description: 'Provides a set of city widgets'
+core: 8.x
+package: 'Custom'
